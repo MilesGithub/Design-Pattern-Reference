@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="116.50702mm"
-   height="58.152248mm"
-   viewBox="0 0 116.50702 58.152248"
+   width="122.68665mm"
+   height="94.510109mm"
+   viewBox="0 0 122.68665 94.510111"
    version="1.1"
    id="svg29"
    inkscape:version="0.92.0 r15299"
@@ -267,8 +267,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="160.70495"
-     inkscape:cy="-42.260145"
+     inkscape:cx="271.93345"
+     inkscape:cy="196.21254"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -276,10 +276,10 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="-0.1"
-     inkscape:window-width="1360"
+     inkscape:window-width="908"
      inkscape:window-height="778"
-     inkscape:window-x="331"
-     inkscape:window-y="156"
+     inkscape:window-x="479"
+     inkscape:window-y="96"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata26">
@@ -297,17 +297,17 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-17.886883,-13.406855)">
+     transform="translate(-14.485097,-10.95001)">
     <rect
-       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.19886588;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26007304;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect5552"
-       width="116.50702"
-       height="58.252247"
-       x="17.886883"
-       y="13.406855" />
+       width="122.68665"
+       height="94.610107"
+       x="14.485097"
+       y="10.95001" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.82363129px;line-height:3.23011017px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12920441"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.82363129px;line-height:3.23011017px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.12920441"
        x="19.598598"
        y="19.79533"
        id="text4512-38"><tspan
@@ -315,113 +315,198 @@
          id="tspan4510-76"
          x="19.598598"
          y="19.79533"
-         style="font-weight:normal;stroke-width:0.12920441">Singleton</tspan></text>
-    <rect
-       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.25913566;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect3701-65-12-7"
-       width="34.313671"
-       height="7.7649617"
-       x="87.926735"
-       y="34.897049" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.62558293px;line-height:1.75820291px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07032812"
-       x="90.192726"
-       y="39.575924"
-       id="text4512-0-6-2-5-6"><tspan
-         sodipodi:role="line"
-         id="tspan4510-7-1-8-34-0"
-         x="90.192726"
-         y="39.575924"
-         style="font-weight:normal;stroke-width:0.07032812">return uniqueInstance</tspan></text>
+         style="font-weight:normal;fill:#008000;stroke-width:0.12920441">Singleton</tspan></text>
     <rect
        style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect3701-6-0-9-1-1"
        width="32.946365"
        height="31.160944"
-       x="28.240715"
-       y="30.034193" />
+       x="34.693172"
+       y="36.786346" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 28.279823,35.659993 h 33.04723"
+       d="M 34.73228,42.412145 H 67.77951"
        id="path4508-1-8-7-6-5"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.62558293px;line-height:1.75820291px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07032812"
-       x="29.730062"
-       y="33.809261"
+       x="36.182522"
+       y="40.561413"
        id="text4512-3-3-8-5-8"><tspan
          sodipodi:role="line"
          id="tspan4510-78-8-1-3-1"
-         x="29.730062"
-         y="33.809261"
+         x="36.182522"
+         y="40.561413"
          style="font-weight:bold;stroke-width:0.07032812">Singleton</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.62558293px;line-height:1.75820291px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07032812"
-       x="29.857084"
-       y="40.117794"
+       x="36.309544"
+       y="46.869946"
        id="text4512-0-6-2-40-04-9"><tspan
          sodipodi:role="line"
          id="tspan4510-7-1-8-1-6-2"
-         x="29.857084"
-         y="40.117794"
+         x="36.309544"
+         y="46.869946"
          style="font-weight:normal;stroke-width:0.07032812">static Instance()</tspan></text>
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.58749996, 1.58749996;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#EmptyDiamondM-1-1-9)"
-       d="M 57.892553,39.29752 87.847164,39.118704"
+       style="fill:none;stroke:#000000;stroke-width:0.25179908;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5107945, 1.5107945;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#EmptyDiamondM-1-1-9)"
+       d="M 64.268501,46.049672 88.983496,45.853385"
        id="path4640-8-9-5"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.62558293px;line-height:1.75820291px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07032812"
-       x="29.872477"
-       y="44.135227"
+       x="36.324936"
+       y="50.887379"
        id="text4512-0-6-2-40-04-9-8"><tspan
          sodipodi:role="line"
          id="tspan4510-7-1-8-1-6-2-2"
-         x="29.872477"
-         y="44.135227"
+         x="36.324936"
+         y="50.887379"
          style="font-weight:normal;stroke-width:0.07032812">SingletonOperation()</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.62558293px;line-height:1.75820291px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07032812"
-       x="29.722673"
-       y="48.109936"
+       x="36.175133"
+       y="54.862087"
        id="text4512-0-6-2-40-04-9-8-6"><tspan
          sodipodi:role="line"
          id="tspan4510-7-1-8-1-6-2-2-3"
-         x="29.722673"
-         y="48.109936"
+         x="36.175133"
+         y="54.862087"
          style="font-weight:normal;stroke-width:0.07032812">GetSingletonData()</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 28.223855,51.091766 H 61.271086"
+       d="M 34.676312,57.843918 H 67.723543"
        id="path4508-1-8-7-6-5-0"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.62558293px;line-height:1.75820291px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07032812"
-       x="30.061464"
-       y="54.813053"
+       x="36.513924"
+       y="61.565201"
        id="text4512-0-6-2-40-04-9-4"><tspan
          sodipodi:role="line"
          id="tspan4510-7-1-8-1-6-2-8"
-         x="30.061464"
-         y="54.813053"
+         x="36.513924"
+         y="61.565201"
          style="font-weight:normal;stroke-width:0.07032812">static uniqueInstance</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.62558293px;line-height:1.75820291px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07032812"
-       x="29.940252"
-       y="58.681808"
+       x="36.392712"
+       y="65.43396"
        id="text4512-0-6-2-40-04-9-4-6"><tspan
          sodipodi:role="line"
          id="tspan4510-7-1-8-1-6-2-8-1"
-         x="29.940252"
-         y="58.681808"
+         x="36.392712"
+         y="65.43396"
          style="font-weight:normal;stroke-width:0.07032812">singletonData</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.83428192px;line-height:2.56759953px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.10270398"
+       x="19.697603"
+       y="76.963234"
+       id="text502-4-4"><tspan
+         sodipodi:role="line"
+         id="tspan500-4-3"
+         x="19.697603"
+         y="76.963234"
+         style="fill:#800000;stroke-width:0.10270398">Participants</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.62558293px;line-height:1.75820291px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07032812"
+       x="20.227053"
+       y="83.191574"
+       id="text4512-3-3-8-8-3-67-5-6"><tspan
+         sodipodi:role="line"
+         id="tspan4510-78-8-1-2-9-18-8-0"
+         x="20.227053"
+         y="83.191574"
+         style="font-weight:bold;stroke-width:0.07032812">Singleton</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.62558293px;line-height:3.75999999px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07032812"
+       x="23.223543"
+       y="87.617477"
+       id="text4512-0-6-2-40-0-90-7-6-6-9"><tspan
+         sodipodi:role="line"
+         x="23.223543"
+         y="87.617477"
+         style="font-weight:normal;line-height:3.75999999px;stroke-width:0.07032812"
+         id="tspan4133">Defines an Instance operation that lets clients access its unique instance. </tspan><tspan
+         sodipodi:role="line"
+         x="23.223543"
+         y="91.37748"
+         style="font-weight:normal;line-height:3.75999999px;stroke-width:0.07032812"
+         id="tspan111">Instance is a class operation.</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.52916658;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect590-3"
+       width="0.93544304"
+       height="0.93544304"
+       x="20.780428"
+       y="86.326447" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.83428192px;line-height:2.56759953px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.10270398"
+       x="19.859194"
+       y="30.918736"
+       id="text502-4-4-0"><tspan
+         sodipodi:role="line"
+         id="tspan500-4-3-7"
+         x="19.859194"
+         y="30.918736"
+         style="fill:#800000;stroke-width:0.10270398">Structure</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.62558293px;line-height:3.75999999px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.07032812"
+       x="19.702852"
+       y="24.992682"
+       id="text4512-0-6-2-40-0-90-7-6-6-9-8"><tspan
+         sodipodi:role="line"
+         x="19.702852"
+         y="24.992682"
+         style="font-weight:normal;font-size:2.82222223px;line-height:3.75999999px;fill:#000080;stroke-width:0.07032812"
+         id="tspan150">Ensure a class only has one instance, and provide a global point of access to it.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.62558293px;line-height:3.75999999px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07032812"
+       x="23.208769"
+       y="95.886086"
+       id="text4512-0-6-2-40-0-90-7-6-6-9-7"><tspan
+         sodipodi:role="line"
+         x="23.208769"
+         y="95.886086"
+         style="font-weight:normal;line-height:3.75999999px;stroke-width:0.07032812"
+         id="tspan111-4">May be responsible for creating its own unique instance.</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.52916658;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect590-3-5"
+       width="0.93544304"
+       height="0.93544304"
+       x="20.765654"
+       y="94.595055" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.25913566;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3701-65-12-7"
+       width="34.313671"
+       height="7.7649617"
+       x="86.961411"
+       y="41.6492" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.62558293px;line-height:1.75820291px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07032812"
+       x="89.227402"
+       y="46.328075"
+       id="text4512-0-6-2-5-6"><tspan
+         sodipodi:role="line"
+         id="tspan4510-7-1-8-34-0"
+         x="89.227402"
+         y="46.328075"
+         style="font-weight:normal;stroke-width:0.07032812">return uniqueInstance</tspan></text>
   </g>
 </svg>

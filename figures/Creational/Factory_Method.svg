@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="157.32845mm"
-   height="73.565849mm"
-   viewBox="0 0 157.32845 73.565849"
+   width="157.59572mm"
+   height="136.90874mm"
+   viewBox="0 0 157.59572 136.90874"
    version="1.1"
    id="svg29"
    inkscape:version="0.92.0 r15299"
@@ -206,9 +206,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="300.39863"
-     inkscape:cy="-27.501745"
+     inkscape:zoom="1.4"
+     inkscape:cx="363.21566"
+     inkscape:cy="233.567"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -216,10 +216,10 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1360"
-     inkscape:window-height="778"
-     inkscape:window-x="331"
-     inkscape:window-y="156"
+     inkscape:window-width="1425"
+     inkscape:window-height="921"
+     inkscape:window-x="116"
+     inkscape:window-y="278"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata26">
@@ -229,7 +229,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -237,47 +237,47 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-17.886883,-13.406856)">
+     transform="translate(-13.87784,-10.909996)">
     <rect
-       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.25969863;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.35458115;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect5552"
-       width="157.32845"
-       height="73.565849"
-       x="17.886883"
-       y="13.406856" />
+       width="157.59572"
+       height="136.90874"
+       x="13.87784"
+       y="10.909996" />
     <rect
        style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.32421041;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect3701-6-0"
        width="30.159027"
        height="16.730469"
-       x="80.670044"
-       y="31.317249" />
+       x="78.402184"
+       y="43.905781" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.31842685;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 80.767288,37.012462 H 110.8951"
+       d="M 78.499431,49.600992 H 108.62724"
        id="path4508-1-8"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.62558293px;line-height:1.75820291px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07032812"
-       x="82.228821"
-       y="35.161743"
+       x="79.96096"
+       y="47.750275"
        id="text4512-3-3"><tspan
          sodipodi:role="line"
          id="tspan4510-78-8"
-         x="82.228821"
-         y="35.161743"
-         style="font-weight:bold;stroke-width:0.07032812">ConcreteBuilder</tspan></text>
+         x="79.96096"
+         y="47.750275"
+         style="font-weight:bold;stroke-width:0.07032812;font-style:italic">Creator</tspan></text>
     <rect
        style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect3701-65-1"
        width="16.537275"
        height="5.7718186"
-       x="34.300014"
-       y="36.146046" />
+       x="32.032158"
+       y="48.734577" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-mid:url(#EmptyTriangleOutM);stroke-miterlimit:4;stroke-dasharray:none"
-       d="M 42.52232,58.570654 V 41.872548"
+       style="fill:none;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-mid:url(#EmptyTriangleOutM)"
+       d="M 40.254463,71.159184 V 54.461078"
        id="path5176"
        inkscape:connector-curvature="0" />
     <path
@@ -285,8 +285,8 @@
        style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.17695057;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path5532"
        sodipodi:sides="3"
-       sodipodi:cx="42.52758"
-       sodipodi:cy="51.248241"
+       sodipodi:cx="40.259724"
+       sodipodi:cy="63.836773"
        sodipodi:r1="1.5350162"
        sodipodi:r2="0.75109249"
        sodipodi:arg1="0.50959226"
@@ -294,23 +294,23 @@
        inkscape:flatsided="false"
        inkscape:rounded="0"
        inkscape:randomized="0"
-       d="m 43.867563,51.997055 -1.329463,0.0022 -1.329003,0.03503 0.662822,-1.152451 0.634162,-1.168466 0.666641,1.150246 z"
+       d="m 41.599706,64.585587 -1.329462,0.0022 -1.329003,0.03503 0.662821,-1.152451 0.634162,-1.168467 0.666641,1.150246 z"
        inkscape:transform-center-x="-0.010753055"
        inkscape:transform-center-y="-0.37440845" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.62558293px;line-height:1.75820291px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07032812"
-       x="36.748013"
-       y="40.090618"
+       x="34.480156"
+       y="52.67915"
        id="text4512-3-3-5"><tspan
          sodipodi:role="line"
          id="tspan4510-78-8-7"
-         x="36.748013"
-         y="40.090618"
+         x="34.480156"
+         y="52.67915"
          style="font-weight:bold;stroke-width:0.07032812">Product</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.82363129px;line-height:3.23011017px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12920441"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.82363129px;line-height:3.23011017px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.12920441"
        x="19.598598"
        y="19.79533"
        id="text4512-38"><tspan
@@ -318,84 +318,84 @@
          id="tspan4510-76"
          x="19.598598"
          y="19.79533"
-         style="font-weight:normal;stroke-width:0.12920441">Factory Method</tspan></text>
+         style="font-weight:normal;fill:#008000;stroke-width:0.12920441">Factory Method</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.62558293px;line-height:1.75820291px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07032812"
-       x="82.355835"
-       y="40.932377"
+       x="80.087975"
+       y="53.520908"
        id="text4512-0-6-2"><tspan
          sodipodi:role="line"
          id="tspan4510-7-1-8"
-         x="82.355835"
-         y="40.932377"
-         style="font-weight:normal;stroke-width:0.07032812">FactoryMethod()</tspan></text>
+         x="80.087975"
+         y="53.520908"
+         style="font-weight:normal;stroke-width:0.07032812;font-style:italic">FactoryMethod()</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.62558293px;line-height:1.75820291px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07032812"
-       x="82.35582"
-       y="45.110832"
+       x="80.087959"
+       y="57.699364"
        id="text4512-0-6-2-4"><tspan
          sodipodi:role="line"
          id="tspan4510-7-1-8-3"
-         x="82.35582"
-         y="45.110832"
+         x="80.087959"
+         y="57.699364"
          style="font-weight:normal;stroke-width:0.07032812">AnOperation()</tspan></text>
     <rect
        style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.30184367;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect3701-65-1-4"
        width="30.091135"
        height="5.6712885"
-       x="28.177263"
-       y="58.495888" />
+       x="25.909407"
+       y="70.422951" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.62558293px;line-height:1.75820291px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07032812"
-       x="30.574997"
-       y="62.390194"
+       x="28.30714"
+       y="74.317261"
        id="text4512-3-3-5-2"><tspan
          sodipodi:role="line"
          id="tspan4510-78-8-7-2"
-         x="30.574997"
-         y="62.390194"
+         x="28.30714"
+         y="74.317261"
          style="font-weight:bold;stroke-width:0.07032812">ConcreteProduct</tspan></text>
     <rect
        style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.28553733;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect3701-6-0-9"
        width="30.197701"
        height="12.960551"
-       x="80.296196"
-       y="57.917152" />
+       x="78.028336"
+       y="70.505676" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.31842685;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 80.412776,63.631704 H 110.54059"
+       d="M 78.144919,76.220234 H 108.27273"
        id="path4508-1-8-7"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.62558293px;line-height:1.75820291px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07032812"
-       x="81.874306"
-       y="61.780983"
+       x="79.606445"
+       y="74.369507"
        id="text4512-3-3-8"><tspan
          sodipodi:role="line"
          id="tspan4510-78-8-1"
-         x="81.874306"
-         y="61.780983"
+         x="79.606445"
+         y="74.369507"
          style="font-weight:bold;stroke-width:0.07032812">ConcreteCreator</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.62558293px;line-height:1.75820291px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07032812"
-       x="82.00132"
-       y="68.089516"
+       x="79.733459"
+       y="80.67804"
        id="text4512-0-6-2-40"><tspan
          sodipodi:role="line"
          id="tspan4510-7-1-8-1"
-         x="82.00132"
-         y="68.089516"
+         x="79.733459"
+         y="80.67804"
          style="font-weight:normal;stroke-width:0.07032812">FactoryMethod()</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-mid:url(#EmptyTriangleOutM-8)"
-       d="M 94.843231,58.011285 V 47.994917"
+       d="M 92.575374,70.599815 V 60.583447"
        id="path5176-7"
        inkscape:connector-curvature="0" />
     <path
@@ -403,8 +403,8 @@
        style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.17695057;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path5532-5"
        sodipodi:sides="3"
-       sodipodi:cx="94.848495"
-       sodipodi:cy="53.495201"
+       sodipodi:cx="92.580635"
+       sodipodi:cy="66.083725"
        sodipodi:r1="1.5350162"
        sodipodi:r2="0.75109249"
        sodipodi:arg1="0.50959226"
@@ -412,18 +412,18 @@
        inkscape:flatsided="false"
        inkscape:rounded="0"
        inkscape:randomized="0"
-       d="m 96.188478,54.244015 -1.329463,0.0022 -1.329002,0.03503 0.662821,-1.152451 0.634162,-1.168466 0.666641,1.150245 z"
+       d="m 93.920617,66.832539 -1.329462,0.0022 -1.329003,0.03503 0.662822,-1.152451 0.634162,-1.168467 0.666641,1.150246 z"
        inkscape:transform-center-x="-0.010753055"
        inkscape:transform-center-y="-0.37440845" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.58749992, 1.58749992;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#EmptyDiamondM-1)"
-       d="m 108.62488,42.268668 h 15.23436"
+       d="m 106.35702,54.857198 h 15.23436"
        id="path4640-8"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.58749994, 1.58749994;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#EmptyDiamondM-1-1)"
-       d="m 108.33771,67.481514 h 15.23436"
+       d="m 106.06985,80.070044 h 15.23436"
        id="path4640-8-9"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -432,42 +432,219 @@
        id="rect3701-65-12"
        width="42.835556"
        height="7.7342238"
-       x="122.60204"
-       y="38.03907" />
+       x="120.33418"
+       y="50.627602" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.62558293px;line-height:1.75820291px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07032812"
-       x="124.85267"
-       y="42.702576"
+       x="122.58481"
+       y="55.291107"
        id="text4512-0-6-2-5"><tspan
          sodipodi:role="line"
          id="tspan4510-7-1-8-34"
-         x="124.85267"
-         y="42.702576"
+         x="122.58481"
+         y="55.291107"
          style="font-weight:normal;stroke-width:0.07032812">product = FactoryMethod()</tspan></text>
     <rect
        style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect3701-65-12-3"
        width="42.835556"
        height="7.7342238"
-       x="122.62072"
-       y="63.032101" />
+       x="120.35286"
+       y="75.620628" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.62558293px;line-height:1.75820291px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07032812"
-       x="124.87054"
-       y="67.899864"
+       x="122.60268"
+       y="80.488388"
        id="text4512-0-6-2-5-0"><tspan
          sodipodi:role="line"
          id="tspan4510-7-1-8-34-4"
-         x="124.87054"
-         y="67.899864"
+         x="122.60268"
+         y="80.488388"
          style="font-weight:normal;stroke-width:0.07032812">return new ConcreteProduct</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.31977522;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.91865145, 1.91865145;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#Arrow2Mstart)"
-       d="M 58.67004,60.860215 H 81.223737"
+       d="M 56.402183,73.448745 H 78.95588"
        id="path4640-8-9-6"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.83428192px;line-height:2.56759953px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.10270398"
+       x="20.414782"
+       y="93.605148"
+       id="text502-4-4"><tspan
+         sodipodi:role="line"
+         id="tspan500-4-3"
+         x="20.414782"
+         y="93.605148"
+         style="fill:#800000;stroke-width:0.10270398">Participants</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.62558293px;line-height:1.75820291px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07032812"
+       x="20.956194"
+       y="108.83833"
+       id="text4512-3-3-8-8-3-67-5"><tspan
+         sodipodi:role="line"
+         id="tspan4510-78-8-1-2-9-18-8"
+         x="20.956194"
+         y="108.83833"
+         style="font-weight:bold;stroke-width:0.07032812">ConcreteProduct</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.62558293px;line-height:1.75820291px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07032812"
+       x="23.885851"
+       y="113.26421"
+       id="text4512-0-6-2-40-0-90-7-6-6"><tspan
+         sodipodi:role="line"
+         id="tspan4510-7-1-8-1-0-8-8-1-1"
+         x="23.885851"
+         y="113.26421"
+         style="font-weight:normal;stroke-width:0.07032812">Implements the Product interface.</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.52916658;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect590"
+       width="0.93544304"
+       height="0.93544304"
+       x="21.442766"
+       y="111.97322" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.62558293px;line-height:1.75820291px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07032812"
+       x="20.944231"
+       y="99.833481"
+       id="text4512-3-3-8-8-3-67-5-6"><tspan
+         sodipodi:role="line"
+         id="tspan4510-78-8-1-2-9-18-8-0"
+         x="20.944231"
+         y="99.833481"
+         style="font-weight:bold;stroke-width:0.07032812">Product</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.62558293px;line-height:3.75999999px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07032812"
+       x="23.940722"
+       y="104.25939"
+       id="text4512-0-6-2-40-0-90-7-6-6-9"><tspan
+         sodipodi:role="line"
+         x="23.940722"
+         y="104.25939"
+         style="font-weight:normal;line-height:3.75999999px;stroke-width:0.07032812"
+         id="tspan4133">Defines the interface of objects the factory method creates.</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.52916658;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect590-3"
+       width="0.93544304"
+       height="0.93544304"
+       x="21.497606"
+       y="102.96836" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.83428192px;line-height:2.56759953px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.10270398"
+       x="20.576372"
+       y="36.221355"
+       id="text502-4-4-0"><tspan
+         sodipodi:role="line"
+         id="tspan500-4-3-7"
+         x="20.576372"
+         y="36.221355"
+         style="fill:#800000;stroke-width:0.10270398">Structure</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.62558293px;line-height:3.75999999px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.07032812;"
+       x="20.420031"
+       y="25.948576"
+       id="text4512-0-6-2-40-0-90-7-6-6-9-8"><tspan
+         sodipodi:role="line"
+         x="20.420031"
+         y="25.948576"
+         style="font-weight:normal;font-size:2.82222223px;line-height:3.75999999px;fill:#000080;stroke-width:0.07032812;"
+         id="tspan135">Define an interface for creating an object, but let subclasses decide which class to instantiate. Factory</tspan><tspan
+         sodipodi:role="line"
+         x="20.420031"
+         y="29.759657"
+         style="font-weight:normal;font-size:2.82222223px;line-height:3.75999999px;fill:#000080;stroke-width:0.07032812;"
+         id="tspan149">Method lets a class defer instantiation to subclasses.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.62558293px;line-height:1.75820291px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07032812"
+       x="20.615129"
+       y="135.8983"
+       id="text4512-3-3-8-8-3-67-5-0"><tspan
+         sodipodi:role="line"
+         id="tspan4510-78-8-1-2-9-18-8-4"
+         x="20.615129"
+         y="135.8983"
+         style="font-weight:bold;stroke-width:0.07032812">ConcreteCreator</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.62558293px;line-height:3.75999999px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07032812"
+       x="23.544786"
+       y="140.32417"
+       id="text4512-0-6-2-40-0-90-7-6-6-3"><tspan
+         sodipodi:role="line"
+         x="23.544786"
+         y="140.32417"
+         style="font-weight:normal;line-height:3.75999999px;stroke-width:0.07032812"
+         id="tspan179">Overides the factory method to return an instance of a ConcreteProduct.</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.52916658;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect590-4"
+       width="0.93544304"
+       height="0.93544304"
+       x="21.101671"
+       y="139.03319" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.62558293px;line-height:1.75820291px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07032812"
+       x="20.603167"
+       y="117.8438"
+       id="text4512-3-3-8-8-3-67-5-6-7"><tspan
+         sodipodi:role="line"
+         id="tspan4510-78-8-1-2-9-18-8-0-2"
+         x="20.603167"
+         y="117.8438"
+         style="font-weight:bold;stroke-width:0.07032812">Creator</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.62558293px;line-height:3.75999999px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07032812"
+       x="23.599657"
+       y="122.26969"
+       id="text4512-0-6-2-40-0-90-7-6-6-9-0"><tspan
+         sodipodi:role="line"
+         x="23.599657"
+         y="122.26969"
+         style="font-weight:normal;line-height:3.75999999px;stroke-width:0.07032812"
+         id="tspan4133-0">Declares the factory method, which returns an object of type Product. Creator may also define a default</tspan><tspan
+         sodipodi:role="line"
+         x="23.599657"
+         y="126.02969"
+         style="font-weight:normal;line-height:3.75999999px;stroke-width:0.07032812"
+         id="tspan151">implementation of the factory method that returns a default ConcreteProduct object.</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.52916658;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect590-3-9"
+       width="0.93544304"
+       height="0.93544304"
+       x="21.156542"
+       y="120.97868" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.62558293px;line-height:1.75820291px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07032812"
+       x="23.578012"
+       y="130.45735"
+       id="text4512-0-6-2-40-0-90-7-6-6-93"><tspan
+         sodipodi:role="line"
+         id="tspan4510-7-1-8-1-0-8-8-1-1-3"
+         x="23.578012"
+         y="130.45735"
+         style="font-weight:normal;stroke-width:0.07032812">May call the factory method to create a Product object.</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.52916658;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect590-2"
+       width="0.93544304"
+       height="0.93544304"
+       x="21.134928"
+       y="129.16637" />
   </g>
 </svg>

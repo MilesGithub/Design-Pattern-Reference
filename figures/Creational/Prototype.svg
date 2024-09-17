@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="157.32845mm"
-   height="76.773079mm"
-   viewBox="0 0 157.32845 76.773078"
+   width="152.27719mm"
+   height="129.68973mm"
+   viewBox="0 0 152.27719 129.68973"
    version="1.1"
    id="svg29"
    inkscape:version="0.92.0 r15299"
@@ -266,9 +266,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="325.12649"
-     inkscape:cy="132.79604"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="691.55919"
+     inkscape:cy="81.885145"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -278,8 +278,8 @@
      fit-margin-bottom="0"
      inkscape:window-width="1360"
      inkscape:window-height="778"
-     inkscape:window-x="331"
-     inkscape:window-y="156"
+     inkscape:window-x="1949"
+     inkscape:window-y="254"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata26">
@@ -289,7 +289,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -297,17 +297,17 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-17.886883,-13.406856)">
+     transform="translate(-12.014821,-10.00507)">
     <rect
-       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26529923;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.33923304;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect5552"
-       width="157.32845"
-       height="76.773079"
-       x="17.886883"
-       y="13.406856" />
+       width="152.27719"
+       height="129.68973"
+       x="12.014821"
+       y="10.00507" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.82363129px;line-height:3.23011017px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12920441"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.82363129px;line-height:3.23011017px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.12920441"
        x="19.598598"
        y="19.79533"
        id="text4512-38"><tspan
@@ -315,40 +315,40 @@
          id="tspan4510-76"
          x="19.598598"
          y="19.79533"
-         style="font-weight:normal;stroke-width:0.12920441">Prototype</tspan></text>
+         style="font-weight:normal;fill:#008000;stroke-width:0.12920441">Prototype</tspan></text>
     <rect
        style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.25686663;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect3701-6-0-9-9"
        width="24.437874"
        height="12.960551"
        x="36.023075"
-       y="29.182636" />
+       y="43.545731" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.28645372;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 36.117417,34.897191 H 60.498739"
+       d="M 36.117417,49.260286 H 60.498739"
        id="path4508-1-8-7-1"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.62558293px;line-height:1.75820291px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07032812"
        x="37.601185"
-       y="33.046467"
+       y="47.409561"
        id="text4512-3-3-8-8"><tspan
          sodipodi:role="line"
          id="tspan4510-78-8-1-2"
          x="37.601185"
-         y="33.046467"
+         y="47.409561"
          style="font-weight:bold;stroke-width:0.07032812">Client</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.62558293px;line-height:1.75820291px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07032812"
        x="37.728199"
-       y="39.355"
+       y="53.718094"
        id="text4512-0-6-2-40-0"><tspan
          sodipodi:role="line"
          id="tspan4510-7-1-8-1-0"
          x="37.728199"
-         y="39.355"
+         y="53.718094"
          style="font-weight:normal;stroke-width:0.07032812">Operation()</tspan></text>
     <rect
        style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -356,21 +356,21 @@
        width="35.911423"
        height="7.7590976"
        x="30.266264"
-       y="49.800259" />
+       y="64.163353" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.62558293px;line-height:1.75820291px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07032812"
        x="32.529327"
-       y="54.4762"
+       y="68.839294"
        id="text4512-0-6-2-5-6"><tspan
          sodipodi:role="line"
          id="tspan4510-7-1-8-34-0"
          x="32.529327"
-         y="54.4762"
+         y="68.839294"
          style="font-weight:normal;stroke-width:0.07032812">p = prototype-&gt;Clone()</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.58749996, 1.58749996;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#EmptyDiamondM-1-1-9)"
-       d="m 56.66413,38.730556 -2e-6,12.294398"
+       d="m 56.66413,53.093651 -2e-6,12.294398"
        id="path4640-8-9-5"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -380,37 +380,37 @@
        width="24.437874"
        height="12.960551"
        x="102.26293"
-       y="28.687366" />
+       y="43.050461" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.28645372;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 102.35728,34.401922 H 126.7386"
+       d="M 102.35728,48.765017 H 126.7386"
        id="path4508-1-8-7-1-4"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.62558293px;line-height:1.75820291px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07032812"
        x="103.84104"
-       y="32.551197"
+       y="46.914291"
        id="text4512-3-3-8-8-4"><tspan
          sodipodi:role="line"
          id="tspan4510-78-8-1-2-4"
          x="103.84104"
-         y="32.551197"
+         y="46.914291"
          style="font-weight:bold;stroke-width:0.07032812">Prototype</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.62558293px;line-height:1.75820291px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07032812"
        x="103.96806"
-       y="38.85973"
+       y="53.222824"
        id="text4512-0-6-2-40-0-9"><tspan
          sodipodi:role="line"
          id="tspan4510-7-1-8-1-0-7"
          x="103.96806"
-         y="38.85973"
-         style="font-weight:normal;stroke-width:0.07032812">Clone()</tspan></text>
+         y="53.222824"
+         style="font-weight:normal;stroke-width:0.07032812;font-style:italic">Clone()</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.31977525;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
-       d="M 60.394132,32.323053 H 101.7235"
+       d="M 60.394132,46.686148 H 101.7235"
        id="path4640-8-9-6-5"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -420,43 +420,43 @@
        width="33.123875"
        height="12.960551"
        x="77.48848"
-       y="51.226418" />
+       y="65.589516" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.33349806;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 77.616348,56.940968 H 110.66358"
+       d="M 77.616348,71.304063 H 110.66358"
        id="path4508-1-8-7-6"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.62558293px;line-height:1.75820291px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07032812"
        x="79.066589"
-       y="55.090244"
+       y="69.453339"
        id="text4512-3-3-8-5"><tspan
          sodipodi:role="line"
          id="tspan4510-78-8-1-3"
          x="79.066589"
-         y="55.090244"
+         y="69.453339"
          style="font-weight:bold;stroke-width:0.07032812">ConcretePrototype1</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.62558293px;line-height:1.75820291px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07032812"
        x="79.193604"
-       y="61.398777"
+       y="75.761871"
        id="text4512-0-6-2-40-04"><tspan
          sodipodi:role="line"
          id="tspan4510-7-1-8-1-6"
          x="79.193604"
-         y="61.398777"
+         y="75.761871"
          style="font-weight:normal;stroke-width:0.07032812">Clone()</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 93.390525,51.158589 v -2.639287 h 42.847785 v 2.706105"
+       d="m 93.390525,65.521684 v -2.639287 h 42.847785 v 2.706105"
        id="path15850"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 114.77209,48.552711 V 41.536887"
+       d="M 114.77209,62.915806 V 55.899982"
        id="path15852"
        inkscape:connector-curvature="0" />
     <path
@@ -465,7 +465,7 @@
        id="path5532-4"
        sodipodi:sides="3"
        sodipodi:cx="114.85051"
-       sodipodi:cy="47.655834"
+       sodipodi:cy="62.018929"
        sodipodi:r1="1.5350162"
        sodipodi:r2="0.75109249"
        sodipodi:arg1="0.50959226"
@@ -473,7 +473,7 @@
        inkscape:flatsided="false"
        inkscape:rounded="0"
        inkscape:randomized="0"
-       d="m 116.19049,48.404648 -1.32946,0.0022 -1.329,0.03503 0.66282,-1.152451 0.63416,-1.168466 0.66664,1.150245 z"
+       d="m 116.19049,62.767742 -1.32946,0.0022 -1.329,0.03503 0.66282,-1.15245 0.63416,-1.168467 0.66664,1.150246 z"
        inkscape:transform-center-x="-0.010753055"
        inkscape:transform-center-y="-0.37440845" />
     <rect
@@ -482,21 +482,21 @@
        width="28.90317"
        height="7.7869563"
        x="77.688866"
-       y="71.972" />
+       y="86.335098" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.62558293px;line-height:1.75820291px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07032812"
        x="79.96505"
-       y="76.866135"
+       y="91.229233"
        id="text4512-0-6-2-5-0-6"><tspan
          sodipodi:role="line"
          id="tspan4510-7-1-8-34-4-0"
          x="79.96505"
-         y="76.866135"
+         y="91.229233"
          style="font-weight:normal;stroke-width:0.07032812">return copy of self</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.58749996, 1.58749996;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#EmptyDiamondM-1-1-0)"
-       d="m 93.880021,61.381645 -0.06682,10.60726"
+       d="M 93.880021,75.74474 93.813201,86.352"
        id="path4640-8-9-8"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -506,33 +506,33 @@
        width="33.123875"
        height="12.960551"
        x="120.35995"
-       y="51.326996" />
+       y="65.583786" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.33349806;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 120.48781,57.04155 h 33.04723"
+       d="m 120.48781,71.298339 h 33.04723"
        id="path4508-1-8-7-6-5"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.62558293px;line-height:1.75820291px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07032812"
        x="121.93805"
-       y="55.190823"
+       y="69.447609"
        id="text4512-3-3-8-5-8"><tspan
          sodipodi:role="line"
          id="tspan4510-78-8-1-3-1"
          x="121.93805"
-         y="55.190823"
+         y="69.447609"
          style="font-weight:bold;stroke-width:0.07032812">ConcretePrototype2</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.62558293px;line-height:1.75820291px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07032812"
        x="122.06507"
-       y="61.499363"
+       y="75.756149"
        id="text4512-0-6-2-40-04-9"><tspan
          sodipodi:role="line"
          id="tspan4510-7-1-8-1-6-2"
          x="122.06507"
-         y="61.499363"
+         y="75.756149"
          style="font-weight:normal;stroke-width:0.07032812">Clone()</tspan></text>
     <rect
        style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.24726765;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -540,23 +540,159 @@
        width="28.903172"
        height="7.7869568"
        x="122.16395"
-       y="72.072586" />
+       y="86.435684" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.62558293px;line-height:1.75820291px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07032812"
        x="124.44013"
-       y="76.966721"
+       y="91.329819"
        id="text4512-0-6-2-5-0-6-7"><tspan
          sodipodi:role="line"
          id="tspan4510-7-1-8-34-4-0-3"
          x="124.44013"
-         y="76.966721"
+         y="91.329819"
          style="font-weight:normal;stroke-width:0.07032812">return copy of self</tspan></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26458332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.58749998, 1.58749998;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#EmptyDiamondM-1-1-0-1)"
-       d="m 136.75149,61.482227 -0.0668,10.60726"
+       d="m 136.75149,75.845322 -0.0668,10.60726"
        id="path4640-8-9-8-9"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.83428192px;line-height:2.56759953px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.10270398"
+       x="19.776024"
+       y="102.1092"
+       id="text502-4-4"><tspan
+         sodipodi:role="line"
+         id="tspan500-4-3"
+         x="19.776024"
+         y="102.1092"
+         style="fill:#800000;stroke-width:0.10270398">Participants</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.62558293px;line-height:1.75820291px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07032812"
+       x="20.317436"
+       y="117.3424"
+       id="text4512-3-3-8-8-3-67-5"><tspan
+         sodipodi:role="line"
+         id="tspan4510-78-8-1-2-9-18-8"
+         x="20.317436"
+         y="117.3424"
+         style="font-weight:bold;stroke-width:0.07032812">ConcretePrototype</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.62558293px;line-height:1.75820291px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07032812"
+       x="24.003046"
+       y="121.76828"
+       id="text4512-0-6-2-40-0-90-7-6-6"><tspan
+         sodipodi:role="line"
+         id="tspan4510-7-1-8-1-0-8-8-1-1"
+         x="24.003046"
+         y="121.76828"
+         style="font-weight:normal;stroke-width:0.07032812">Implements an operation for cloning itself.</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.52916658;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect590"
+       width="0.93544304"
+       height="0.93544304"
+       x="21.559961"
+       y="120.47728" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.62558293px;line-height:1.75820291px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07032812"
+       x="20.305473"
+       y="108.33754"
+       id="text4512-3-3-8-8-3-67-5-6"><tspan
+         sodipodi:role="line"
+         id="tspan4510-78-8-1-2-9-18-8-0"
+         x="20.305473"
+         y="108.33754"
+         style="font-weight:bold;stroke-width:0.07032812">Prototype</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.62558293px;line-height:3.75999999px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07032812"
+       x="24.057917"
+       y="112.76345"
+       id="text4512-0-6-2-40-0-90-7-6-6-9"><tspan
+         sodipodi:role="line"
+         x="24.057917"
+         y="112.76345"
+         style="font-weight:normal;line-height:3.75999999px;stroke-width:0.07032812"
+         id="tspan4133">Declares an interface for cloning itself.</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.52916658;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect590-3"
+       width="0.93544304"
+       height="0.93544304"
+       x="21.614801"
+       y="111.47242" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.83428192px;line-height:2.56759953px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.10270398"
+       x="19.937614"
+       y="36.220951"
+       id="text502-4-4-0"><tspan
+         sodipodi:role="line"
+         id="tspan500-4-3-7"
+         x="19.937614"
+         y="36.220951"
+         style="fill:#800000;stroke-width:0.10270398">Structure</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.62558293px;line-height:3.75999999px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.07032812"
+       x="19.781273"
+       y="25.948174"
+       id="text4512-0-6-2-40-0-90-7-6-6-9-8"><tspan
+         sodipodi:role="line"
+         x="19.781273"
+         y="25.948174"
+         style="font-weight:normal;font-size:2.82222223px;line-height:3.75999999px;fill:#000080;stroke-width:0.07032812"
+         id="tspan149">Specify the kinds of objects to create using a prototypical instance, and create new objects by</tspan><tspan
+         sodipodi:role="line"
+         x="19.781273"
+         y="29.759254"
+         style="font-weight:normal;font-size:2.82222223px;line-height:3.75999999px;fill:#000080;stroke-width:0.07032812"
+         id="tspan150">copying this prototype.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.62558293px;line-height:1.75820291px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07032812"
+       x="19.964409"
+       y="126.34787"
+       id="text4512-3-3-8-8-3-67-5-6-7"><tspan
+         sodipodi:role="line"
+         id="tspan4510-78-8-1-2-9-18-8-0-2"
+         x="19.964409"
+         y="126.34787"
+         style="font-weight:bold;stroke-width:0.07032812">Client</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.62558293px;line-height:3.75999999px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07032812"
+       x="23.716852"
+       y="130.77376"
+       id="text4512-0-6-2-40-0-90-7-6-6-9-0"><tspan
+         sodipodi:role="line"
+         x="23.716852"
+         y="130.77376"
+         style="font-weight:normal;line-height:3.75999999px;stroke-width:0.07032812"
+         id="tspan151">Creates a new object by asking a prototype to clone itself.</tspan></text>
+    <rect
+       style="opacity:1;vector-effect:none;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.52916658;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect590-3-9"
+       width="0.93544304"
+       height="0.93544304"
+       x="21.273737"
+       y="129.48276" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.91965973px;line-height:1.28548646px;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.05141946"
+       x="61.542385"
+       y="45.882942"
+       id="text4512-0-6-2-40-0-91"><tspan
+         sodipodi:role="line"
+         id="tspan4510-7-1-8-1-0-2"
+         x="61.542385"
+         y="45.882942"
+         style="font-weight:normal;stroke-width:0.05141946">prototype</tspan></text>
   </g>
 </svg>
