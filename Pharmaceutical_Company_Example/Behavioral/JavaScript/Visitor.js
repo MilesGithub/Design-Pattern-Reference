@@ -1,53 +1,110 @@
-// Define Abstract Class with Template Method
-class RegulatoryProcess {
-  executeProcess(drugName) {
-    console.log(`Starting the regulatory process for drug: ${drugName}`);
-    this.performEvaluation(drugName);
-    this.performApproval(drugName);
-    this.finalizeProcess(drugName);
-    console.log(`Regulatory process completed for drug: ${drugName}`);
+// Define Element Interface for Regulatory Steps
+class RegulatoryStep {
+  accept(visitor) {
+    throw new Error("This method should be overridden by concrete classes!");
   }
+}
 
-  // Abstract Methods (To be implemented by subclasses)
-  performEvaluation(drugName) {
+// Concrete Elements
+class DocumentationSubmission extends RegulatoryStep {
+  accept(visitor) {
+    visitor.visitDocumentationSubmission(this);
+  }
+}
+
+class ClinicalTrialReview extends RegulatoryStep {
+  accept(visitor) {
+    visitor.visitClinicalTrialReview(this);
+  }
+}
+
+class SafetyEvaluation extends RegulatoryStep {
+  accept(visitor) {
+    visitor.visitSafetyEvaluation(this);
+  }
+}
+
+// Visitor Interface
+class Visitor {
+  visitDocumentationSubmission(documentation) {
     throw new Error("This method should be overridden by concrete classes!");
   }
 
-  performApproval(drugName) {
+  visitClinicalTrialReview(trialReview) {
     throw new Error("This method should be overridden by concrete classes!");
   }
 
-  finalizeProcess(drugName) {
-    console.log(`Finalizing process for drug: ${drugName}`);
+  visitSafetyEvaluation(safetyEvaluation) {
+    throw new Error("This method should be overridden by concrete classes!");
   }
 }
 
-// Concrete Class: Standard Approval Process
-class StandardApprovalProcess extends RegulatoryProcess {
-  performEvaluation(drugName) {
-    console.log(`Evaluating drug: ${drugName} using Standard Evaluation.`);
+// Concrete Visitor Auditor
+class Auditor extends Visitor {
+  visitDocumentationSubmission(documentation) {
+    console.log("Auditing documentation submission...");
   }
 
-  performApproval(drugName) {
-    console.log(`Approving drug: ${drugName} using Standard Approval Process.`);
-  }
-}
-
-// Concrete Class: Accelerated Approval Process
-class AcceleratedApprovalProcess extends RegulatoryProcess {
-  performEvaluation(drugName) {
-    console.log(`Evaluating drug: ${drugName} using Accelerated Evaluation.`);
+  visitClinicalTrialReview(trialReview) {
+    console.log("Auditing clinical trial review process...");
   }
 
-  performApproval(drugName) {
-    console.log(`Approving drug: ${drugName} using Accelerated Approval Process.`);
+  visitSafetyEvaluation(safetyEvaluation) {
+    console.log("Auditing safety evaluation...");
   }
 }
 
-// Create instances of the concrete classes
-const standardProcess = new StandardApprovalProcess();
-const acceleratedProcess = new AcceleratedApprovalProcess();
+// Concrete Visitor Report Generator
+class ReportGenerator extends Visitor {
+  visitDocumentationSubmission(documentation) {
+    console.log("Generating report for documentation submission...");
+  }
 
-// Execute processes
-standardProcess.executeProcess("Test Small Molecule 01");
-acceleratedProcess.executeProcess("Test Small Molecule 02");
+  visitClinicalTrialReview(trialReview) {
+    console.log("Generating report for clinical trial review...");
+  }
+
+  visitSafetyEvaluation(safetyEvaluation) {
+    console.log("Generating report for safety evaluation...");
+  }
+}
+
+// Concrete Visitor Approval Checker
+class ApprovalChecker extends Visitor {
+  visitDocumentationSubmission(documentation) {
+    console.log("Checking approval status of documentation submission...");
+  }
+
+  visitClinicalTrialReview(trialReview) {
+    console.log("Checking approval status of clinical trial review...");
+  }
+
+  visitSafetyEvaluation(safetyEvaluation) {
+    console.log("Checking approval status of safety evaluation...");
+  }
+}
+
+// Define the regulatory steps
+const documentation = new DocumentationSubmission();
+const clinicalTrials = new ClinicalTrialReview();
+const safetyEval = new SafetyEvaluation();
+
+// Define visitors
+const auditor = new Auditor();
+const reportGenerator = new ReportGenerator();
+const approvalChecker = new ApprovalChecker();
+
+// Use the Auditor visitor on different steps
+documentation.accept(auditor);
+clinicalTrials.accept(auditor);
+safetyEval.accept(auditor);
+
+// Use the Report Generator visitor on different steps
+documentation.accept(reportGenerator);
+clinicalTrials.accept(reportGenerator);
+safetyEval.accept(reportGenerator);
+
+// Use the Approval Checker visitor on different steps
+documentation.accept(approvalChecker);
+clinicalTrials.accept(approvalChecker);
+safetyEval.accept(approvalChecker);

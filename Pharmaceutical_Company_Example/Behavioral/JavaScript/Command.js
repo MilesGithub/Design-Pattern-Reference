@@ -1,96 +1,123 @@
-# Command Interface
-class RegulatoryCommand:
-    def execute(self):
-        raise NotImplementedError("This method should be overridden!")
+// Command Interface
+class RegulatoryCommand {
+    execute() {
+        throw new Error("This method should be overridden!");
+    }
+}
 
-# Concrete Command: Submit Drug Application
-class SubmitApplicationCommand(RegulatoryCommand):
-    def __init__(self, drug_name, system):
-        self.drug_name = drug_name
-        self.system = system
+// Concrete Command: Submit Drug Application
+class SubmitApplicationCommand extends RegulatoryCommand {
+    constructor(drugName, system) {
+        super();
+        this.drugName = drugName;
+        this.system = system;
+    }
 
-    def execute(self):
-        self.system.submit_application(self.drug_name)
+    execute() {
+        this.system.submitApplication(this.drugName);
+    }
+}
 
-# Concrete Command: Approve Drug
-class ApproveDrugCommand(RegulatoryCommand):
-    def __init__(self, drug_name, system):
-        self.drug_name = drug_name
-        self.system = system
+// Concrete Command: Approve Drug
+class ApproveDrugCommand extends RegulatoryCommand {
+    constructor(drugName, system) {
+        super();
+        this.drugName = drugName;
+        this.system = system;
+    }
 
-    def execute(self):
-        self.system.approve_drug(self.drug_name)
+    execute() {
+        this.system.approveDrug(this.drugName);
+    }
+}
 
-# Concrete Command: Reject Drug
-class RejectDrugCommand(RegulatoryCommand):
-    def __init__(self, drug_name, system):
-        self.drug_name = drug_name
-        self.system = system
+// Concrete Command: Reject Drug
+class RejectDrugCommand extends RegulatoryCommand {
+    constructor(drugName, system) {
+        super();
+        this.drugName = drugName;
+        this.system = system;
+    }
 
-    def execute(self):
-        self.system.reject_drug(self.drug_name)
+    execute() {
+        this.system.rejectDrug(this.drugName);
+    }
+}
 
-# Receiver
-class RegulatorySystem:
-    def __init__(self):
-        self.applications = {}
-        self.status = {}
+// Receiver
+class RegulatorySystem {
+    constructor() {
+        this.applications = {};
+        this.status = {};
+    }
 
-    def submit_application(self, drug_name):
-        self.applications[drug_name] = True
-        self.status[drug_name] = "Submitted"
-        print(f"Application submitted for: {drug_name}")
+    submitApplication(drugName) {
+        this.applications[drugName] = true;
+        this.status[drugName] = "Submitted";
+        console.log(`Application submitted for: ${drugName}`);
+    }
 
-    def approve_drug(self, drug_name):
-        if drug_name in self.applications:
-            self.status[drug_name] = "Approved"
-            print(f"{drug_name} approved.")
-        else:
-            print(f"No application found for: {drug_name}")
+    approveDrug(drugName) {
+        if (this.applications[drugName]) {
+            this.status[drugName] = "Approved";
+            console.log(`${drugName} approved.`);
+        } else {
+            console.log(`No application found for: ${drugName}`);
+        }
+    }
 
-    def reject_drug(self, drug_name):
-        if drug_name in self.applications:
-            self.status[drug_name] = "Rejected"
-            print(f"{drug_name} rejected.")
-        else:
-            print(f"No application found for: {drug_name}")
+    rejectDrug(drugName) {
+        if (this.applications[drugName]) {
+            this.status[drugName] = "Rejected";
+            console.log(`${drugName} rejected.`);
+        } else {
+            console.log(`No application found for: ${drugName}`);
+        }
+    }
 
-    def show_status(self, drug_name):
-        if drug_name in self.status:
-            print(f"Current status of {drug_name}: {self.status[drug_name]}")
-        else:
-            print(f"No status found for: {drug_name}")
+    showStatus(drugName) {
+        if (this.status[drugName]) {
+            console.log(`Current status of ${drugName}: ${this.status[drugName]}`);
+        } else {
+            console.log(`No status found for: ${drugName}`);
+        }
+    }
+}
 
-# Invoker
-class ApprovalSystemInvoker:
-    def __init__(self):
-        self.commands = []
+// Invoker
+class ApprovalSystemInvoker {
+    constructor() {
+        this.commands = [];
+    }
 
-    def add_command(self, command):
-        self.commands.append(command)
+    addCommand(command) {
+        this.commands.push(command);
+    }
 
-    def execute_commands(self):
-        for command in self.commands:
-            command.execute()
-        self.commands = []  # Clear the command queue after execution
+    executeCommands() {
+        this.commands.forEach(command => command.execute());
+        this.commands = []; // Clear the queue after execution
+    }
+}
 
-# Create Receiver
-regulatory_system = RegulatorySystem()
+// Create Receiver
+const regulatorySystem = new RegulatorySystem();
 
-# Create Invoker
-approval_system_invoker = ApprovalSystemInvoker()
+// Create Invoker
+const approvalSystemInvoker = new ApprovalSystemInvoker();
 
-# Add commands to invoker
-submit_vaccine_command = SubmitApplicationCommand(drug_name="Test Small Molecule 01", system=regulatory_system)
-approve_vaccine_command = ApproveDrugCommand(drug_name="Test Small Molecule 01", system=regulatory_system)
-reject_aspirin_command = RejectDrugCommand(drug_name="Test Small Molecule 02", system=regulatory_system)
+// Add commands to invoker
+const submitVaccineCommand = new SubmitApplicationCommand("Test Small Molecule 01", regulatorySystem);
+const approveVaccineCommand = new ApproveDrugCommand("Test Small Molecule 01", regulatorySystem);
+const rejectAspirinCommand = new RejectDrugCommand("Test Small Molecule 02", regulatorySystem);
 
-approval_system_invoker.add_command(submit_vaccine_command)
-approval_system_invoker.add_command(approve_vaccine_command)
-approval_system_invoker.add_command(reject_aspirin_command)
+approvalSystemInvoker.addCommand(submitVaccineCommand);
+approvalSystemInvoker.addCommand(approveVaccineCommand);
+approvalSystemInvoker.addCommand(rejectAspirinCommand);
 
-approval_system_invoker.execute_commands()
+// Execute commands
+approvalSystemInvoker.executeCommands();
 
-# Show the status of drugs after executing commands
-regulatory_system.show_status("Test Small Molecule 01")
-regulatory_system.show_status("Test Small Molecule 02")
+// Show status of drugs after executing commands
+regulatorySystem.showStatus("Test Small Molecule 01");
+regulatorySystem.showStatus("Test Small Molecule 02");
