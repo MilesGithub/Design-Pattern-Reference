@@ -1,45 +1,71 @@
-# Singleton
-class RegulatoryApprovalSystem:
-    _instance = None
+import java.util.HashMap;
+import java.util.Map;
 
-    def __new__(cls):
-        if cls._instance is None:
-            cls._instance = super(RegulatoryApprovalSystem, cls).__new__(cls)
-            cls._instance.approvals = {}
-        return cls._instance
+public class RegulatoryApprovalSystem {
+    // Static variable to hold the one instance
+    private static RegulatoryApprovalSystem instance;
 
-    def add_approval(self, drug_name, status):
-        self.approvals[drug_name] = status
-        print(f"Added approval status for: {drug_name} - Status: {status}")
+    // Internal storage for approvals
+    private Map<String, String> approvals;
 
-    def get_status(self, drug_name):
-        if drug_name in self.approvals:
-            print(f"Approval status for {drug_name} is: {self.approvals[drug_name]}")
-        else:
-            print(f"No approval status found for {drug_name}")
+    // Private constructor to prevent external instantiation
+    private RegulatoryApprovalSystem() {
+        approvals = new HashMap<>();
+    }
 
-    def show_all_approvals(self):
-        print("Current approval statuses:")
-        for drug, status in self.approvals.items():
-            print(f"{drug} : {status}")
+    // Public static method to get the single instance
+    public static synchronized RegulatoryApprovalSystem getInstance() {
+        if (instance == null) {
+            instance = new RegulatoryApprovalSystem();
+        }
+        return instance;
+    }
 
-# Get the single instance of RegulatoryApprovalSystem
-approval_system = RegulatoryApprovalSystem()
+    // Add approval
+    public void addApproval(String drugName, String status) {
+        approvals.put(drugName, status);
+        System.out.println("Added approval status for: " + drugName + " - Status: " + status);
+    }
 
-# Add approvals
-approval_system.add_approval("Test Vaccine 01", "Approved")
-approval_system.add_approval("Test Small Molecule 01", "Under Review")
-approval_system.add_approval("Test Monoclonal Antibody 01", "Approved")
+    // Get status
+    public void getStatus(String drugName) {
+        if (approvals.containsKey(drugName)) {
+            System.out.println("Approval status for " + drugName + " is: " + approvals.get(drugName));
+        } else {
+            System.out.println("No approval status found for " + drugName);
+        }
+    }
 
-approval_system.get_status("Test Small Molecule 01")
-approval_system.get_status("Test Vaccine 01")
+    // Show all approvals
+    public void showAllApprovals() {
+        System.out.println("Current approval statuses:");
+        for (Map.Entry<String, String> entry : approvals.entrySet()) {
+            System.out.println(entry.getKey() + " : " + entry.getValue());
+        }
+    }
 
-approval_system.show_all_approvals()
+    // Main method for demonstration
+    public static void main(String[] args) {
+        RegulatoryApprovalSystem approvalSystem = RegulatoryApprovalSystem.getInstance();
 
-# Create another instance (it will return the same instance)
-approval_system_2 = RegulatoryApprovalSystem()
-approval_system_2.add_approval("Test Small Molecule 02", "Pending Review")
+        // Add approvals
+        approvalSystem.addApproval("Test Vaccine 01", "Approved");
+        approvalSystem.addApproval("Test Small Molecule 01", "Under Review");
+        approvalSystem.addApproval("Test Monoclonal Antibody 01", "Approved");
 
-# Two instances are the same
-approval_system_2.show_all_approvals()
-approval_system.show_all_approvals()
+        // Check status
+        approvalSystem.getStatus("Test Small Molecule 01");
+        approvalSystem.getStatus("Test Vaccine 01");
+
+        // Show all approvals
+        approvalSystem.showAllApprovals();
+
+        // Create another instance
+        RegulatoryApprovalSystem approvalSystem2 = RegulatoryApprovalSystem.getInstance();
+        approvalSystem2.addApproval("Test Small Molecule 02", "Pending Review");
+
+        // Verify shared instance
+        approvalSystem2.showAllApprovals();
+        approvalSystem.showAllApprovals();
+    }
+}

@@ -1,50 +1,72 @@
-# Abstraction
-class RegulatoryProcess:
-    def __init__(self, implementation):
-        self.implementation = implementation
+// Interface for the implementation
+interface RegulatoryImplementation {
+    void submit();
+    void approve();
+}
 
-    def submit(self):
-        self.implementation.submit()
+// Abstraction class
+class RegulatoryProcess {
+    private RegulatoryImplementation implementation;
 
-    def approve(self):
-        self.implementation.approve()
+    public RegulatoryProcess(RegulatoryImplementation implementation) {
+        this.implementation = implementation;
+    }
 
+    public void submit() {
+        implementation.submit();
+    }
 
-# Concrete implementation for Vaccines
-class VaccineProcess:
-    def submit(self):
-        print("Submitting vaccine clinical trial data...")
+    public void approve() {
+        implementation.approve();
+    }
+}
 
-    def approve(self):
-        print("Vaccine regulatory approval granted.")
+// Concrete implementation for Vaccines
+class VaccineProcess implements RegulatoryImplementation {
+    public void submit() {
+        System.out.println("Submitting vaccine clinical trial data...");
+    }
 
+    public void approve() {
+        System.out.println("Vaccine regulatory approval granted.");
+    }
+}
 
-# Concrete implementation for Small-Molecule Drugs
-class SmallMoleculeDrugProcess:
-    def submit(self):
-        print("Submitting small-molecule clinical trial data...")
+// Concrete implementation for Small-Molecule Drugs
+class SmallMoleculeDrugProcess implements RegulatoryImplementation {
+    public void submit() {
+        System.out.println("Submitting small-molecule clinical trial data...");
+    }
 
-    def approve(self):
-        print("Small-molecule regulatory approval granted.")
+    public void approve() {
+        System.out.println("Small-molecule regulatory approval granted.");
+    }
+}
 
+// Concrete implementation for Biologics
+class BiologicsProcess implements RegulatoryImplementation {
+    public void submit() {
+        System.out.println("Submitting biologics clinical trial data...");
+    }
 
-# Concrete implementation for Biologics
-class BiologicsProcess:
-    def submit(self):
-        print("Submitting biologics clinical trial data...")
+    public void approve() {
+        System.out.println("Biologics regulatory approval granted.");
+    }
+}
 
-    def approve(self):
-        print("Biologics regulatory approval granted.")
+// Main class to demonstrate usage
+public class Main {
+    public static void main(String[] args) {
+        RegulatoryProcess preclinicalSmallMolecule = new RegulatoryProcess(new SmallMoleculeDrugProcess());
+        preclinicalSmallMolecule.submit();
+        preclinicalSmallMolecule.approve();
 
+        RegulatoryProcess clinicalBiologics = new RegulatoryProcess(new BiologicsProcess());
+        clinicalBiologics.submit();
+        clinicalBiologics.approve();
 
-preclinical_small_molecule = RegulatoryProcess(SmallMoleculeDrugProcess())
-preclinical_small_molecule.submit()
-preclinical_small_molecule.approve()
-
-clinical_biologics = RegulatoryProcess(SmallMoleculeDrugProcess())
-clinical_biologics.submit()
-clinical_biologics.approve()
-
-clinical_vaccine = RegulatoryProcess(VaccineProcess())
-clinical_vaccine.submit()
-clinical_vaccine.approve()
+        RegulatoryProcess clinicalVaccine = new RegulatoryProcess(new VaccineProcess());
+        clinicalVaccine.submit();
+        clinicalVaccine.approve();
+    }
+}
